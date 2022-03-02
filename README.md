@@ -2,7 +2,7 @@
 
 En este repositorio, se encuentran las prácticas para acreditar la primera semana Frontend de la organización Launch X.
 
-Todos los documentos y diagramas de mi autoría 
+Todos los documentos y diagramas son de mi autoría 
 
 
 ## Todo el contenido estara basado en un caso de ejemplo
